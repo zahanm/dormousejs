@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/zahanm/dormousejs.png)](http://travis-ci.org/zahanm/dormousejs)
 **dormousejs** is a javascript library to help access the
 [dormouse](http://dormou.se) crowdsourcing platform's API.
 
